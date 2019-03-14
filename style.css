@@ -1,0 +1,43 @@
+body{
+    font-family: 'Share Tech', sans-serif;
+    background: #2B4F63;
+}
+
+#mainNavbar .navbar-brand{
+    font-size: 1.5rem;
+}
+
+#mainNavbar .nav-link{
+    font-size: 1.3rem;
+    color: white;
+}
+
+#mainNavbar .nav-link:hover{
+    color: #737373;
+}
+
+#headingGroup span{
+    color: #FD7006;
+    font-weight: 700;
+    margin: 1px;
+}
+
+#headingGroup h1{
+    font-size: 4rem;
+    font-variant: small-caps;
+}
+
+.sectionText{
+    color: rgba(194, 194, 194, 0.6);
+    font-size: 1.125rem;
+    line-height: 2.0;
+}
+
+.sectionHead{
+    font-size: 2.25rem;
+}
+
+.navbar.scrolled{
+    background: #152328;
+    transition: background 1s;
+}
